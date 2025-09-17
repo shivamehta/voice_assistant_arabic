@@ -1,0 +1,8 @@
+livekit-agents[groq,silero,turn-detector,google]
+livekit-plugins-google
+livekit-plugins-groq
+duckduckgo-search
+langchain_community
+requests
+python-dotenv
+BeautifulSoup4
