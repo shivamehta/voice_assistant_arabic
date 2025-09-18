@@ -10,7 +10,7 @@ $ pip install -r requirements.txt
 ```
 
 You need to set up the following environment variables, you can refer envexamples.txt and save it as ".env.local" :
-
+Login/Sign up in "https://livekit.io/" and fetch your credentials
 ```
 LIVEKIT_URL=...
 LIVEKIT_API_KEY=...
